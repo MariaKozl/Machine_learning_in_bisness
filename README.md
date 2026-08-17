@@ -1,1 +1,1 @@
-# Machine_learning_in_bisness
+# Machine-learning-in-bisness
